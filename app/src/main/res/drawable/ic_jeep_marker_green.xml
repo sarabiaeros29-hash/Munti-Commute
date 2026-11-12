@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="22dp"
+    android:height="22dp"
+    android:viewportWidth="22"
+    android:viewportHeight="22">
+
+    <!-- Glass Outer Ring -->
+    <path
+        android:pathData="M11,11m-10,0a10,10 0 1,0 20,0a10,10 0 1,0 -20,0"
+        android:fillColor="#10B981"
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="1.2" />
+
+    <!-- Small E-Jeep Shuttle Icon -->
+    <path
+        android:pathData="M7,6.5 C7,5.7 7.7,5 8.5,5 L13.5,5 C14.3,5 15,5.7 15,6.5 L15,15.5 C15,16.3 14.3,17 13.5,17 L8.5,17 C7.7,17 7,16.3 7,15.5 Z"
+        android:fillColor="#FFFFFF" />
+
+    <!-- Windshield -->
+    <path
+        android:pathData="M8,6.5 L14,6.5 L14,9.5 L8,9.5 Z"
+        android:fillColor="#047857" />
+
+    <!-- Headlights -->
+    <path
+        android:pathData="M8.5,15.2 A1,1 0 1,1 8.5,15.19 Z"
+        android:fillColor="#FBBF24" />
+    <path
+        android:pathData="M13.5,15.2 A1,1 0 1,1 13.5,15.19 Z"
+        android:fillColor="#FBBF24" />
+</vector>
